@@ -154,3 +154,11 @@ p{
   top: 0;
   transform: translate(0, -100%);
 }
+
+.text-card img{
+  border-radius: 50%;
+  width: 180px;
+  height: 170px;
+  margin-left: 22px;
+  margin-bottom: 25px;
+}
