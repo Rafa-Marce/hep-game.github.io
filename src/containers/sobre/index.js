@@ -109,7 +109,10 @@ function Sobre () {
                     <div className='cards'>
                         <div className='text-card'>
                             <img src = {avatar_marcela} alt= '' className='img'/>
-                            <p> Marcela
+                            <p> Marcela Membrive é uma belorizontina nata. Nasceu em 2004 e hoje em dia cursa o ensino médio técnico em produção de moda no Cefet Divinópolis. 
+                            Escolheu o curso por já estar familiarizada com a área de moda, arte e ilustração. Foi co-escritora do livro "Inversão", fez o design das personagens
+                            e todas as ilustrações da obra. Procurava uma forma de produzir um trabalho escolar, com pesquisa e que utilizasse seus conhecimentos de ilustração 
+                            prévios e em desenvolvimento, de forma que fosse útil para a comunidade escolar. <a href='https://www.instagram.com/mcela_ml/'>Insta aqui</a>
     
                             </p>
                         </div>
