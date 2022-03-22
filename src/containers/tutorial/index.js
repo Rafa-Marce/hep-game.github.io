@@ -174,7 +174,7 @@ function Tutorial (){
                         Por isso no primeiro turno ele poderia jogar qualquer quark, seja down ou up, já que ambos têm o mesmo custo de energia.
                         Ainda no primeiro turno, quando o primeiro jogador fizer a jogada e terminar seu turno, o próximo jogador, antes de jogar, deve comprar uma carta. E assim será para o resto do jogo, todo jogador, antes de iniciar seu turno, compra uma carta.
                         Caso o jogador não queira usar suas energias disponíveis é só escolher passar fase até que termine o turno.
-                        O mais promissor no jogo é usar suas energias o mais efetivamente possível, tentando desperdiçar o menos possível.
+                        A efetividade do uso de energias é primordial no jogo, portanto tente usar o máximo de energia disponível em cada turno.
                         </p>
                     </div>
                    
