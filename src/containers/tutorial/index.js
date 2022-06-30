@@ -34,7 +34,7 @@ function Tutorial (){
                     <Fade top>
                         <p>
                             Os jogadores deverão formar um átomo escolhido no início da partida a partir de partículas elementares. Quem formar o átomo primeiro, vence.
-                            Por exemplo, um jogo onde o objetivo é formar um átomo de hidrogênio
+                            Por exemplo, um jogo onde o objetivo é formar um átomo de hidrogênio.
                         </p>
                         <Image src = {hidrogenio} alt= '' className='card rounded mx-auto d-block'/>
                     </Fade>
@@ -45,8 +45,8 @@ function Tutorial (){
             <section> 
                 <div className='context'>                              
                     <p>
-                    Veja que o número atômico é 1, logo os jogadores nesta partida deverão formar 1 próton, 1 nêutron e 1 elétron. Quem formar primeiro o hidrogênio, vence!
-                    Mas neste jogo os gênios da física criam as partículas elementares somente, assim para formar um prótons e nêutrons é preciso:
+                    Veja que o número atômico é 1, logo os jogadores nesta partida deverão formar 1 próton e 1 elétron. Quem formar primeiro o hidrogênio, vence!
+                    Mas neste jogo os gênios da física criam as partículas elementares somente, assim para formar um próton e/ou nêutron é preciso:
                     </p>           
                     <div>
                     <Slide left>
@@ -170,7 +170,7 @@ function Tutorial (){
                     <Image src = {tutorial2} alt= '' className='card3 rounded float-left'/>
                     <div className='texto2'>
                         <p>
-                        Com essa habilidade o jogador pode jogar a jogar a carta quark down por 2 – 1 energias, ou seja, paga somente 1 e joga a carta.
+                        Com essa habilidade o jogador pode jogar a jogar a carta quark down por (2 – 1) energias, ou seja, paga somente 1 e joga a carta.
                         Por isso no primeiro turno ele poderia jogar qualquer quark, seja down ou up, já que ambos têm o mesmo custo de energia.
                         Ainda no primeiro turno, quando o primeiro jogador fizer a jogada e terminar seu turno, o próximo jogador, antes de jogar, deve comprar uma carta. E assim será para o resto do jogo, todo jogador, antes de iniciar seu turno, compra uma carta.
                         Caso o jogador não queira usar suas energias disponíveis é só escolher passar fase até que termine o turno.
